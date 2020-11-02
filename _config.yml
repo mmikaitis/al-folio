@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Profile page of Mantas Mikaitis # the website title (if blank, full name will be used instead)
+title: (if blank, full name will be used instead)
 first_name: Mantas
 middle_name:
 last_name: Mikaitis
