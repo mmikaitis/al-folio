@@ -1,24 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Affiliations</a>. Address. Contacts.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mantas-profile-pic0.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Mathematics</p>
+    <p>Alan Turing Building</p>
+    <p>The University of Manchester</p>
+    <p>Oxford Road, Manchester</p>
+    <p>M13 9PL, United Kingdom </p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Associate with [Numerical Linear Algebra Group](https://nla-group.org) at the University of Manchester, working with [Prof. Nick Higham](https://www.maths.manchester.ac.uk/~higham/index.php). In the 2019/20 academic year I was an EPSRC Doctoral Prize Fellow at the same group. I received a B.Sc. (Hons.) degree in Computer Science in 2016 and a PhD degree in Computer Science in 2020, both from the University of Manchester.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my doctoral degree I was part of two neuromorphic computing projects called SpiNNaker and SpiNNaker 2, which aim to build efficient spiking neural network simulators. There I explored numerical aspects of SpiNNaker software and developed hardware accelerators for elementary functions in SpiNNaker 2.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include computer arithmetic and related topics. I occasionally contribute to the [NLA group blog](https://nla-group.org/blog/).
