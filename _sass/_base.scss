@@ -165,7 +165,7 @@ a, table.table a {
 .social {
   text-align: center;
   .contact-icon {
-    font-size: 4rem;
+    font-size: 3rem;
     a {
       color: var(--global-icon-color);
       &:hover {
@@ -298,7 +298,7 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-light;
+    color: $grey-color;
     border-top: 1px solid $grey-color-light;
     padding-top: 1rem;
     margin-top: 2rem;
@@ -311,22 +311,22 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
-      .abbr {
-        height: 2rem;
-        margin-bottom: 0.5rem;
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          a {
-            color: white;
-            &:hover {
-              text-decoration: none;
+        margin-bottom: 0rem;
+        .abbr {
+            height: 2rem;
+            margin-bottom: 0.5rem;
+            abbr {
+                display: inline-block;
+                background-color: var(--global-theme-color);
+                padding-left: 1rem;
+                padding-right: 1rem;
+                a {
+                    color: white;
+                    &:hover {
+                        text-decoration: none;
+                    }
+                }
             }
-          }
-        }
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
