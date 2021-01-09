@@ -1,0 +1,73 @@
+---
+layout: page
+permalink: /software/
+title: Software
+description: Below is a list of software I have recently made contributions to.
+nav: true
+---
+
+<ul>
+
+<li> <b>Testsuites for the GPU floating-point arithmetics</b><br>
+
+A set of testsuites that test the numerical behaviour of the latest GPUs equipped with the matrix multiply-accumulate floating-point operation in hardware. <br>
+
+<a href="https://github.com/mfasi/tensor-cores-numerical-behavior">Source code (GitHub).</a>
+
+</li>
+<br>
+
+
+
+<li> <b>CPFloat</b><br>
+
+A C library for rounding matrix elements to customizable lower precision floating-point data types. <br>
+
+<a href="https://github.com/mfasi/cpfloat">Source code (GitHub).</a>
+
+</li>
+<br>
+
+
+
+<li> <b>Stochastic Rounding Toolbox</b><br>
+
+A collection of MATLAB functions for emulating stochastic rounding on IEEE 754-compliant hardware. <br>
+
+<a href="https://uk.mathworks.com/matlabcentral/fileexchange/74819-stochastic-rounding-toolbox">Source code (MATLAB File Exchange).</a>
+
+</li>
+<br>
+
+
+
+<li> <b>MATLAB chop</b><br>
+
+A MATLAB function for rounding matrix elements to customizable lower precision floating-point data types.<br>
+
+<a href="https://github.com/higham/chop">Source code (GitHub).</a>
+
+</li>
+<br>
+
+
+
+<li> <b>Fixed-point arithmetic library <font face = "Courier New" size = "4">round.h</font></b> <br>
+
+A library of fixed-point arithmetic extensions to the ISO 18037 implementation of the GCC, used in the SpiNNaker neuromorphic chip. <br>
+
+<a href="https://github.com/SpiNNakerManchester/spinn_common/blob/master/include/round.h">Source code (GitHub).</a>
+
+</li>
+<br>
+
+
+
+<li> <b>GNU Compiler Collection (GCC)</b><br>
+
+A list of my patches to the GCC can be found <a href="https://gcc.gnu.org/git/?p=gcc.git;a=search;h=HEAD;s=Mantas+Mikaitis;st=author">here</a>.
+
+</li>
+<br>
+
+</ul>

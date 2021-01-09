@@ -6,7 +6,7 @@ description: Below is a list of my recent teaching activities.
 nav: true
 ---
 
-Developing and delivering lectures or assesement.
+<b>Developing and delivering lectures or assesement:</b>
 
 <ul>
 
@@ -14,7 +14,7 @@ Developing and delivering lectures or assesement.
 
 </ul>
 
-Graduate Teaching Assistant in the following courses. This role included helping students in the laboratories, and face-to-face or offline marking of coursework.
+<b>Graduate Teaching Assistant:</b>
 <ul>
 <li> <a href="http://studentnet.cs.manchester.ac.uk/syllabus/index.php?code=COMP22111&year=2018">COMP22111 Processor Microarchitecture 2018/19</a></li>
 
@@ -37,10 +37,12 @@ Graduate Teaching Assistant in the following courses. This role included helping
 <li> <a href="https://studentnet.cs.manchester.ac.uk/syllabus/index.php?code=COMP12111&year=2016">COMP12111 Fundamentals of Computer Engineering 2016/17</a></li>
 </ul>
 
-Other:
+
+
+<b>Other:</b>
 
 <ul>
 
-<li> <a href="https://wiki.cs.manchester.ac.uk/engineering/">https://wiki.cs.manchester.ac.uk/engineering/</a>: Technical writing of an internal departmental wiki for undergraduate students. Covered topics on EDA tools, Verilog HDL, ARM assembly programming, Boolean algebra, and simulation and synthesis of hardware designs. </li>
+<li> <a href="https://wiki.cs.manchester.ac.uk/engineering/">https://wiki.cs.manchester.ac.uk/engineering/</a>: Internal departmental wiki for undergraduate students. </li>
 
 </ul>
