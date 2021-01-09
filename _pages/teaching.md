@@ -43,6 +43,6 @@ nav: true
 
 <ul>
 
-<li> <a href="https://wiki.cs.manchester.ac.uk/engineering/">https://wiki.cs.manchester.ac.uk/engineering/</a>: Internal departmental wiki for undergraduate students. </li>
+<li> <a href="https://wiki.cs.manchester.ac.uk/engineering/">https://wiki.cs.manchester.ac.uk/engineering/</a>: Internal departmental wiki for Computer Science undergraduate students. </li>
 
 </ul>
