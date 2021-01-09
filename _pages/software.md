@@ -10,7 +10,7 @@ nav: true
 
 <li> <b>Testsuites for the GPU floating-point arithmetics</b><br>
 
-A set of testsuites that test the numerical behaviour of the latest GPUs equipped with the matrix multiply-accumulate floating-point operation in hardware. <br>
+A set of testsuites for the numerical behaviour of recent GPUs equipped with the matrix multiply-accumulate floating-point operation in hardware. <br>
 
 <a href="https://github.com/mfasi/tensor-cores-numerical-behavior">Source code (GitHub).</a>
 

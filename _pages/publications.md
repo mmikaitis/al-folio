@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: This page lists HTML links to my journal and conference papers, technical reports, dissertations, and theses.
+description: Links to my published journal and conference papers, preprints, dissertations, and theses.
 nav: true
 ---
 
