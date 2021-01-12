@@ -52,7 +52,7 @@ a, table.table a {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 25%;
     .address {
       p { display: block; }
     }
@@ -157,6 +157,7 @@ a, table.table a {
 }
 
 .news table th {
+  width: 100px;
   color: var(--global-text-color);
 }
 
