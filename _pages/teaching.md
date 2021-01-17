@@ -10,7 +10,7 @@ nav: true
 
 <ul>
 
-<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a>: Contributed teaching and assesment materials for two weeks of this course; week 2 on <i>Floating-Point Arithmetic</i>, and week 3 on <i>Extending the Precision</i>.</li>
+<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a>: Contributed teaching and assesment materials for two weeks of this course; week 2 on <i>Floating-Point Arithmetic</i> (<a href="../assets/pdf/COMP36212_week2.pdf">PDF</a>), and week 3 on <i>Extending the Precision</i> (<a href="../assets/pdf/COMP36212_week3.pdf">PDF</a>).</li>
 
 </ul>
 
