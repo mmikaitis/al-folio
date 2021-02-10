@@ -12,6 +12,10 @@ nav: true
 
 <ul>
 
+<li><a href="https://peerj.com/articles/cs-330/"><i>Numerical Behavior of NVIDIA Tensor Cores</i></a> (with M.Fasi, N. J. Higham, and S. Pranesh). PeerJ Comput. Sci. 7:e330. Feb. 2021.
+</li>
+<p> </p>
+
 <li><a href="https://ieeexplore.ieee.org/document/9154497"><i>Issues with rounding in the GCC implementation of the ISO 18037:2008 standard fixed-point arithmetic</i></a>. 27th IEEE Symposium on Computer Arithmetic. Portland, OR, US. 7-10 Jun. 2020.
 </li>
 <p> </p>
@@ -57,10 +61,6 @@ nav: true
 <p> </p>
 
 <ul>
-
-<li><a href="http://eprints.maths.manchester.ac.uk/2791/"><i>Numerical Behavior of NVIDIA Tensor Cores</i></a> (with M.Fasi, N. J. Higham, and S. Pranesh). To appear in PeerJ Computer Science. Accepted, Nov. 2020.
-</li>
-<p> </p>
 
 <li> <a href="http://eprints.maths.manchester.ac.uk/2785/"><i>CPFloat: A C library for emulating low-precision arithmetic</i></a> (with M. Fasi). Tech. Report 2020.22, Manchester Institute for Mathematical Sciences, The University of Manchester, UK. Oct. 2020.
 </li>
