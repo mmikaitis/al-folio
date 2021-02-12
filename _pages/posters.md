@@ -1,0 +1,24 @@
+---
+layout: page
+permalink: /posters/
+title: Posters
+description: Posters presented at various workshops or conferences.
+nav: true
+---
+
+
+<ul>
+
+<li><a href="../assets/pdf/Poster_SIAM_CSE21_2021.pdf"><i>Numerical Behavior of NVIDIA Tensor Cores.</i></a> (Virtual) SIAM Conference on Computational Science and Engineering (CSE21). Fort Worth, Texas, US. Mar. 2021.
+</li>
+<p> </p>
+
+<li><a href="../assets/pdf/Poster_UoM_CS_research_symp_2018.pdf"><i>Do we need high accuracy arithmetic to simulate the brain?</i></a> (<b>Outstanding Research Poster Runner-Up Award</b>). University of Manchester, School of Computer Science Postgraduate Research Symposium. Apr. 2018.
+</li>
+<p> </p>
+
+<li><a href="../assets/pdf/Poster_4th_HBP_summer_school_2017.pdf"><i>Shift-add-only exponential for the next generation SpiNNaker system</i></a> (<b>Student Poster Award</b>). 4th Human Brain Project Summer School on Future Computing. Obergurgl, Austria. Jun. 2017.
+</li>
+<p> </p>
+
+</ul>

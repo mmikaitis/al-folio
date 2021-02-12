@@ -10,11 +10,11 @@ nav: true
 
 <ul>
 
-<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a>: Contributed teaching and assesment materials for two weeks of this course; week 2 on <i>Floating-Point Arithmetic</i> (<a href="../assets/pdf/COMP36212_week2.pdf">PDF</a>), and week 3 on <i>Extending the Precision</i> (<a href="../assets/pdf/COMP36212_week3.pdf">PDF</a>).</li>
+<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a> (University of Manchester). Contributed teaching and assesment materials for two weeks of this course; week 2 on <i>Floating-Point Arithmetic</i> (<a href="../assets/pdf/COMP36212_week2.pdf">PDF</a>), and week 3 on <i>Extending the Precision</i> (<a href="../assets/pdf/COMP36212_week3.pdf">PDF</a>).</li>
 
 </ul>
 
-<b>Graduate Teaching Assistant:</b>
+<b>Graduate Teaching Assistant (University of Manchester):</b>
 <ul>
 <li> <a href="http://studentnet.cs.manchester.ac.uk/syllabus/index.php?code=COMP22111&year=2018">COMP22111 Processor Microarchitecture 2018/19</a></li>
 
@@ -43,6 +43,6 @@ nav: true
 
 <ul>
 
-<li> <a href="https://wiki.cs.manchester.ac.uk/engineering/">https://wiki.cs.manchester.ac.uk/engineering/</a>: Internal departmental wiki for Computer Science undergraduate students. </li>
+<li> <a href="https://wiki.cs.manchester.ac.uk/engineering/">https://wiki.cs.manchester.ac.uk/engineering/</a>: Internal departmental wiki for Computer Science undergraduate students at the University of Manchester. Created 2014. </li>
 
 </ul>
