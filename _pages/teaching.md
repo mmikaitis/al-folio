@@ -6,7 +6,7 @@ description: Below is a list of my recent teaching activities.
 nav: true
 ---
 
-<b>Developing and delivering lectures or assesement:</b>
+<b>Developing and delivering lectures or assessement:</b>
 
 <ul>
 

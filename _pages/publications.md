@@ -12,6 +12,10 @@ nav: true
 
 <ul>
 
+<li> <a href="https://ieeexplore.ieee.org/document/9387551"><i>Algorithms for Stochastically Rounded Elementary Arithmetic Operations in IEEE 754 Floating-Point Arithmetic</i></a> (with M. Fasi). IEEE Transactions on Emerging Topics in Computing. Early Access. Mar. 2021.
+</li>
+<p> </p>
+
 <li><a href="https://peerj.com/articles/cs-330/"><i>Numerical Behavior of NVIDIA Tensor Cores</i></a> (with M.Fasi, N. J. Higham, and S. Pranesh). PeerJ Comput. Sci. 7:e330. Feb. 2021.
 </li>
 <p> </p>
@@ -63,10 +67,6 @@ nav: true
 <ul>
 
 <li> <a href="http://eprints.maths.manchester.ac.uk/2785/"><i>CPFloat: A C library for emulating low-precision arithmetic</i></a> (with M. Fasi). Tech. Report 2020.22, Manchester Institute for Mathematical Sciences, The University of Manchester, UK. Oct. 2020.
-</li>
-<p> </p>
-
-<li> <a href="http://eprints.maths.manchester.ac.uk/2790/"><i>Algorithms for stochastically rounded elementary arithmetic operations in IEEE 754 floating-point arithmetic</i></a> (with M. Fasi). Tech. Report 2020.9, Manchester Institute for Mathematical Sciences, The University of Manchester, UK. Mar. 2020 (updated Oct. 2020).
 </li>
 <p> </p>
 
