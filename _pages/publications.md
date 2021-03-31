@@ -32,7 +32,7 @@ nav: true
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/8464785"><i>Approximate Fixed-Point Elementary Function Accelerator for the SpiNNaker-2 Neuromorphic Chip</i></a> (with D. R. Lester, D. Shang, S. B. Furber, G. Liu, J. Garside, S. Scholze, S. H&ouml;ppner, and A. Dixius). 25th IEEE Symposium on Computer Arithmeric. Amherst, MA, US. 25-27 June 2018.
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/8464785"><i>Approximate Fixed-Point Elementary Function Accelerator for the SpiNNaker-2 Neuromorphic Chip</i></a> (with D. R. Lester, D. Shang, S. B. Furber, G. Liu, J. Garside, S. Scholze, S. H&ouml;ppner, and A. Dixius). 25th IEEE Symposium on Computer Arithmetic. Amherst, MA, US. 25-27 June 2018.
 </li>
 <p> </p>
 

@@ -8,6 +8,16 @@ nav: true
 
 <ul>
 
+<li> <b>Anymatrix</b><br>
+
+A MATLAB matrix collection with an interface to organize matrices into groups and sets. It provides commands to search for matrices by their properties and generate matrices by their unique IDs. <br>
+
+<a href="https://github.com/mmikaitis/anymatrix">Source code (GitHub).</a>
+
+</li>
+<br>
+
+
 <li> <b>Testsuites for the GPU floating-point arithmetics</b><br>
 
 A set of testsuites for the numerical behaviour of recent GPUs equipped with the matrix multiply-accumulate floating-point operation in hardware. <br>
