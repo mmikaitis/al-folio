@@ -7,10 +7,14 @@ nav: true
 ---
 
 
-<font size="5">Papers</font>
+<font size="5">Peer-reviewed publications</font>
 <p> </p>
 
 <ul>
+
+<li> <a href="https://arxiv.org/abs/2001.01501"><i>Stochastic Rounding: Algorithms and Hardware Accelerator</i></a>. arXiv:2001.01501. Jan. 2020 (updated June 2020). To appear in the proceedings of the 2021 International Joint Conference on Neural Networks (IJCNN).
+</li>
+<p> </p>
 
 <li> <a href="https://ieeexplore.ieee.org/document/9387551"><i>Algorithms for Stochastically Rounded Elementary Arithmetic Operations in IEEE 754 Floating-Point Arithmetic</i></a> (with M. Fasi). IEEE Transactions on Emerging Topics in Computing. Early Access. Mar. 2021.
 </li>
@@ -67,10 +71,6 @@ nav: true
 <ul>
 
 <li> <a href="http://eprints.maths.manchester.ac.uk/2785/"><i>CPFloat: A C library for emulating low-precision arithmetic</i></a> (with M. Fasi). Tech. Report 2020.22, Manchester Institute for Mathematical Sciences, The University of Manchester, UK. Oct. 2020.
-</li>
-<p> </p>
-
-<li> <a href="https://arxiv.org/abs/2001.01501"><i>Stochastic Rounding: Algorithms and Hardware Accelerator</i></a>. arXiv:2001.01501. Jan. 2020 (updated June 2020).
 </li>
 <p> </p>
 
