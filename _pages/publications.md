@@ -12,11 +12,11 @@ nav: true
 
 <ul>
 
-<li> <a href="https://arxiv.org/abs/2001.01501"><i>Stochastic Rounding: Algorithms and Hardware Accelerator</i></a>. arXiv:2001.01501. Jan. 2020 (updated June 2020). To appear in the proceedings of the 2021 International Joint Conference on Neural Networks (IJCNN).
+<li> <a href="https://arxiv.org/abs/2001.01501"><i>Stochastic Rounding: Algorithms and Hardware Accelerator</i></a>. arXiv:2001.01501. Jan. 2020 (updated June 2020). To appear in the proceedings of IJCNN 2021.
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/document/9387551"><i>Algorithms for Stochastically Rounded Elementary Arithmetic Operations in IEEE 754 Floating-Point Arithmetic</i></a> (with M. Fasi). IEEE Transactions on Emerging Topics in Computing. Early Access. Mar. 2021.
+<li> <a href="https://ieeexplore.ieee.org/document/9387551"><i>Algorithms for Stochastically Rounded Elementary Arithmetic Operations in IEEE 754 Floating-Point Arithmetic</i></a> (with M. Fasi). IEEE Trans. Emerg. Topics Comput. Early Access. Mar. 2021.
 </li>
 <p> </p>
 
@@ -24,7 +24,7 @@ nav: true
 </li>
 <p> </p>
 
-<li><a href="https://ieeexplore.ieee.org/document/9154497"><i>Issues with rounding in the GCC implementation of the ISO 18037:2008 standard fixed-point arithmetic</i></a>. 27th IEEE Symposium on Computer Arithmetic. Portland, OR, US. 7-10 Jun. 2020.
+<li><a href="https://ieeexplore.ieee.org/document/9154497"><i>Issues with rounding in the GCC implementation of the ISO 18037:2008 standard fixed-point arithmetic</i></a>. 27th IEEE Symp. Comput. Arithmetic. Portland, OR, US. 7-10 Jun. 2020.
 </li>
 <p> </p>
 
@@ -32,19 +32,19 @@ nav: true
 </li>
 <p> </p>
 
-<li> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00816/full"><i>sPyNNaker: A Software Package for Running PyNN Simulations on SpiNNaker</i></a> (with O. Rhodes, P. A. Bogdan, C. Brenninkmeijer, S. Davidson, D. Fellows, A. Gait, D. R. Lester, L. Plana, A. G. D. Rowley, A. B. Stokes, and S. B. Furber.). Frontiers in Neuroscience, 12:816. Nov. 2018.
+<li> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00816/full"><i>sPyNNaker: A Software Package for Running PyNN Simulations on SpiNNaker</i></a> (with O. Rhodes, P. A. Bogdan, C. Brenninkmeijer, S. Davidson, D. Fellows, A. Gait, D. R. Lester, L. Plana, A. G. D. Rowley, A. B. Stokes, and S. B. Furber.). Front. Neurosci., 12:816. Nov. 2018.
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/8464785"><i>Approximate Fixed-Point Elementary Function Accelerator for the SpiNNaker-2 Neuromorphic Chip</i></a> (with D. R. Lester, D. Shang, S. B. Furber, G. Liu, J. Garside, S. Scholze, S. H&ouml;ppner, and A. Dixius). 25th IEEE Symposium on Computer Arithmetic. Amherst, MA, US. 25-27 June 2018.
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/8464785"><i>Approximate Fixed-Point Elementary Function Accelerator for the SpiNNaker-2 Neuromorphic Chip</i></a> (with D. R. Lester, D. Shang, S. B. Furber, G. Liu, J. Garside, S. Scholze, S. H&ouml;ppner, and A. Dixius). 25th IEEE Symp. Comput. Arithmetic. Amherst, MA, US. 25-27 June 2018.
 </li>
 <p> </p>
 
-<li> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00105/full"><i>Neuromodulated Synaptic Plasticity on the SpiNNaker Neuromorphic System</i></a> (with G. P. Garc&iacute;a, J. C. Knight, and S. B. Furber). Frontiers in Neuroscience, 12:105. Feb. 2018.
+<li> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00105/full"><i>Neuromodulated Synaptic Plasticity on the SpiNNaker Neuromorphic System</i></a> (with G. P. Garc&iacute;a, J. C. Knight, and S. B. Furber). Front. Neurosci., 12:105. Feb. 2018.
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/7966229"><i>Brewing the first ever automatic memory management utility for SpiNNaker: Real-time garbage collection for STDP simulations</i></a> (with D. R. Lester). 2017 Int. Joint Conf. on Neural Networks (IJCNN). Anchorage, Alaska, US. 14-19 May 2017.
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/7966229"><i>Brewing the first ever automatic memory management utility for SpiNNaker: Real-time garbage collection for STDP simulations</i></a> (with D. R. Lester). 2017 Int. Joint Conf. Neural Networks (IJCNN). Anchorage, Alaska, US. 14-19 May 2017.
 </li>
 <p> </p>
 
