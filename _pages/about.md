@@ -12,7 +12,7 @@ profile:
     <p>Alan Turing Building</p>
     <p>The University of Manchester</p>
     <p>Oxford Road, Manchester</p>
-    <p>M13 9PL, United Kingdom </p>
+    <p>M13 9PL, UK </p>
     <p> ----- </p>
     <i>Photo: next to SpiNNaker machine. </i>
 
