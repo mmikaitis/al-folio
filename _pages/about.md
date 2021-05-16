@@ -14,7 +14,7 @@ profile:
     <p>Oxford Road, Manchester</p>
     <p>M13 9PL, United Kingdom </p>
     <p> ----- </p>
-    <i>* Photo next to 1M-core SpiNNaker machine. </i>
+    <i>Photo: next to SpiNNaker machine. </i>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
