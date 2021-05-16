@@ -8,11 +8,13 @@ profile:
   align: right
   image: mantas-profile-pic0.png
   address: >
-    <p>Department of Mathematics</p>
+    <p>Dept. Mathematics</p>
     <p>Alan Turing Building</p>
     <p>The University of Manchester</p>
     <p>Oxford Road, Manchester</p>
     <p>M13 9PL, United Kingdom </p>
+    <p> --------------------- </p>
+    <i>* Photo next to 1M-core SpiNNaker machine. </i>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

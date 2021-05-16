@@ -9,6 +9,10 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Poster_IJCNN_2021.pdf"><i>Stochastic Rounding: Algorithms and Hardware Accelerator.</i></a> (Virtual) International Joint Conference on Neural Networks (IJCNN 2021). Jul. 2021.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Poster_SIAM_CSE21_2021.pdf"><i>Numerical Behavior of NVIDIA Tensor Cores.</i></a> (Virtual) SIAM Conference on Computational Science and Engineering (CSE21). Fort Worth, Texas, US. Mar. 2021.
 </li>
 <p> </p>
