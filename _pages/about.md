@@ -8,9 +8,9 @@ profile:
   align: right
   image: mantas-profile-pic0.png
   address: >
-    <p>Dept. Mathematics</p>
+    <p>Department of Mathematics</p>
     <p>Alan Turing Building</p>
-    <p>The University of Manchester</p>
+    <p>University of Manchester</p>
     <p>Oxford Road, Manchester</p>
     <p>M13 9PL, UK </p>
     <p> ----- </p>
