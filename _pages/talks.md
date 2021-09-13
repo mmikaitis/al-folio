@@ -9,6 +9,10 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-SCAN2020.pdf">A Trick for an Accurate e<sup>−|x|</sup> Function in Fixed-Point Arithmetics</a>. 19th International Symposium on Scientific Computing, Computer Arithmetic, and Verified Numerical Computations (SCAN2020). Sep. 2021 (Virtual). <a href="../assets/code/fixp_exp_tricks.m">MATLAB code</a>.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-IJCNN2021.pdf">Stochastic Rounding: Algorithms and Hardware Accelerator</a>. 2021 International Joint Conference on Neural Networks (IJCNN). Jul. 2021 (Virtual).
 </li>
 <p> </p>

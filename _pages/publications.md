@@ -12,6 +12,14 @@ nav: true
 
 <ul>
 
+<li> <a href="http://www.inf.szte.hu/~csendes/scan2020_proceedings.pdf">A Trick for an Accurate e<sup>−|x|</sup> Function in Fixed-Point Arithmetics</a>. Extended abstract. 19th Int. Symp. Scientific Computing, Comput. Arithmetic, Verified Numer. Computations (SCAN2020). Sep. 2020.
+</li>
+<p> </p>
+
+<li> <a href="http://www.inf.szte.hu/~csendes/scan2020_proceedings.pdf">CPFloat: A C library for emulating low-precision arithmetic</a> (with M. Fasi). Extended abstract. 19th Int. Symp. Scientific Computing, Comput. Arithmetic, Verified Numer. Computations (SCAN2020). Sep. 2020.
+</li>
+<p> </p>
+
 <li> <a href="https://arxiv.org/abs/2001.01501">Stochastic Rounding: Algorithms and Hardware Accelerator</a>. arXiv:2001.01501. Jan. 2020 (updated June 2020). To appear in the proceedings of IJCNN 2021.
 </li>
 <p> </p>
