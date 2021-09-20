@@ -12,11 +12,11 @@ nav: true
 
 <ul>
 
-<li> <a href="http://www.inf.szte.hu/~csendes/scan2020_proceedings.pdf">A Trick for an Accurate e<sup>−|x|</sup> Function in Fixed-Point Arithmetics</a>. Extended abstract. 19th Int. Symp. Scientific Computing, Comput. Arithmetic, Verified Numer. Computations (SCAN2020). Sep. 2020.
+<li> <a href="https://www.inf.u-szeged.hu/scan2020/sites/default/files/scan2020_proceedings.pdf">A Trick for an Accurate e<sup>−|x|</sup> Function in Fixed-Point Arithmetics</a>. Extended abstract. 19th Int. Symp. Scientific Computing, Comput. Arithmetic, Verified Numer. Computations (SCAN2020). Sep. 2020.
 </li>
 <p> </p>
 
-<li> <a href="http://www.inf.szte.hu/~csendes/scan2020_proceedings.pdf">CPFloat: A C library for emulating low-precision arithmetic</a> (with M. Fasi). Extended abstract. 19th Int. Symp. Scientific Computing, Comput. Arithmetic, Verified Numer. Computations (SCAN2020). Sep. 2020.
+<li> <a href="https://www.inf.u-szeged.hu/scan2020/sites/default/files/scan2020_proceedings.pdf">CPFloat: A C library for emulating low-precision arithmetic</a> (with M. Fasi). Extended abstract. 19th Int. Symp. Scientific Computing, Comput. Arithmetic, Verified Numer. Computations (SCAN2020). Sep. 2020.
 </li>
 <p> </p>
 
