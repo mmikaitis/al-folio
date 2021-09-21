@@ -20,15 +20,15 @@ nav: true
 </li>
 <p> </p>
 
-<li> <a href="https://arxiv.org/abs/2001.01501">Stochastic Rounding: Algorithms and Hardware Accelerator</a>. arXiv:2001.01501. Jan. 2020 (updated June 2020). To appear in the proceedings of IJCNN 2021.
+<li> <a href="https://ieeexplore.ieee.org/document/9533756">Stochastic Rounding: Algorithms and Hardware Accelerator</a>. 2021 Int. Joint Conf. Neural Networks (IJCNN). Shenzhen, China. 18-22 Jul. 2021.
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/document/9387551">Algorithms for Stochastically Rounded Elementary Arithmetic Operations in IEEE 754 Floating-Point Arithmetic</a> (with M. Fasi). IEEE Trans. Emerg. Topics Comput. Early Access. Mar. 2021.
+<li> <a href="https://ieeexplore.ieee.org/document/9387551">Algorithms for Stochastically Rounded Elementary Arithmetic Operations in IEEE 754 Floating-Point Arithmetic</a> (with M. Fasi). IEEE Trans. Emerg. Topics Comput., 9:3. Mar. 2021 (<a href="https://ieeexplore.ieee.org/document/9540969">Special Section on “Emerging and Impacting Trends on Computer Arithmetic”</a>).
 </li>
 <p> </p>
 
-<li><a href="https://peerj.com/articles/cs-330/">Numerical Behavior of NVIDIA Tensor Cores</a> (with M.Fasi, N. J. Higham, and S. Pranesh). PeerJ Comput. Sci. 7:e330. Feb. 2021.
+<li><a href="https://peerj.com/articles/cs-330/">Numerical Behavior of NVIDIA Tensor Cores</a> (with M.Fasi, N. J. Higham, and S. Pranesh). PeerJ Comput. Sci., 7:e330. Feb. 2021.
 </li>
 <p> </p>
 
